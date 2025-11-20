@@ -18,6 +18,7 @@ Nosso projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
+  
 
 
 - [Acesse o site finalizado, online](https://gustavodev10.github.io/paginalogin/)
